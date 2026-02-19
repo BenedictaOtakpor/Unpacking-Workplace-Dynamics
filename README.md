@@ -8,5 +8,5 @@ Analyzed workforce demographics using SQL and Power BI to evaluate the distribut
 - SQL
   
 Power BI Sales &amp; Profitability Dashboard
-[🔗 Dashboard]((https://medium.com/@otakporawele/unpacking-workplace-dynamics-374cd3621e6c))
+[🔗 Dashboard](https://medium.com/@otakporawele/unpacking-workplace-dynamics-374cd3621e6c)
 
